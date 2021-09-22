@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "e960fd51-295e-4f88-8ea1-2e691e69329e",
+      "name": "aaaaaa",
+      "email": "180544107001@darshan.ac.in"
+    },
+    {
+      "id": "e77bdf2d-0377-4edc-adc3-9c7d7b042f59",
+      "name": "Shyam",
+      "email": "shyambhalodiya61@gmail.com"
+    },
+    {
+      "id": "399f149d-0f88-4acc-ab76-ae37c3e2f053",
+      "name": "Patel Shyam",
+      "email": "shyambtridhyatech@gmail.com"
+    }
+  ]
+}
