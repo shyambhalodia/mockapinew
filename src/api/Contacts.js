@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "https://contactbookreact.herokuapp.com/api",
+  baseURL: "https://finalmock-tridhyatechnew.vercel.app/api",
 });
